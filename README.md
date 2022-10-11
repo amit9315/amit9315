@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amit9315
+- 👋 Hi, I’m Amit 
 - 👀 I’m interested in New things 
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Learning
